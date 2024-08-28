@@ -5,9 +5,8 @@
   ### Tecnólogo em Processamento de Dados
   
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/sergiocarvalho1969/)
-[![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/_sergiocarvalho1969/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergiocarvalho1969/)
+[![Instagram](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram)](https://www.instagram.com/sergiocarvalho1969/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srvcarvalho)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:srvcarvalho@gmail.com)
 
